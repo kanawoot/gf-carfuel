@@ -1,0 +1,7 @@
+C:\Users\PTS\Documents\Visual Studio 2015\Projects\CarFuel.Model\CarFuel.Data\bin\Debug\CarFuel.Data.dll
+C:\Users\PTS\Documents\Visual Studio 2015\Projects\CarFuel.Model\CarFuel.Data\bin\Debug\CarFuel.Data.pdb
+C:\Users\PTS\Documents\Visual Studio 2015\Projects\CarFuel.Model\CarFuel.Data\bin\Debug\CarFuel.Model.dll
+C:\Users\PTS\Documents\Visual Studio 2015\Projects\CarFuel.Model\CarFuel.Data\bin\Debug\CarFuel.Model.pdb
+C:\Users\PTS\Documents\Visual Studio 2015\Projects\CarFuel.Model\CarFuel.Data\obj\Debug\CarFuel.Data.csprojResolveAssemblyReference.cache
+C:\Users\PTS\Documents\Visual Studio 2015\Projects\CarFuel.Model\CarFuel.Data\obj\Debug\CarFuel.Data.dll
+C:\Users\PTS\Documents\Visual Studio 2015\Projects\CarFuel.Model\CarFuel.Data\obj\Debug\CarFuel.Data.pdb

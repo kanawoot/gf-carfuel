@@ -1,0 +1,5 @@
+c:\users\pts\documents\visual studio 2015\Projects\CarFuel.Model\bin\Debug\CarFuel.Model.dll
+c:\users\pts\documents\visual studio 2015\Projects\CarFuel.Model\bin\Debug\CarFuel.Model.pdb
+c:\users\pts\documents\visual studio 2015\Projects\CarFuel.Model\obj\Debug\CarFuel.Model.csprojResolveAssemblyReference.cache
+c:\users\pts\documents\visual studio 2015\Projects\CarFuel.Model\obj\Debug\CarFuel.Model.dll
+c:\users\pts\documents\visual studio 2015\Projects\CarFuel.Model\obj\Debug\CarFuel.Model.pdb
